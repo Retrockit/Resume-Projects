@@ -1,0 +1,59 @@
+# Generic files to ignore
+*~
+*.bak
+*.swp
+.DS_Store
+
+# LaTeX intermediate files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.lb
+*.bbl
+*.blg
+*.brf
+*.cls
+*.dvi
+*.idx
+*.ilg
+*.ind
+*.inx
+*.ps
+*.synctex.gz
+*.synctex(busy)
+*.synctex.gz(busy)
+*.pdfsync
+*.nav
+*.pre
+*.snm
+*.vrb
+*.spl
+*.tpt
+*.fls
+*.fdb_latexmk
+*.xml
+
+# LaTeX -related files that might appear in the root of a project
+*.loa
+*.thm
+*.lol
+*.tdo
+*-blx.bib
+*.run.xml
+
+# Compiled document(s)
+*.pdf
+# Uncomment if you want to ignore the generated main PDF
+# main.pdf
+
+# Directories to ignore
+bin/
+obj/
